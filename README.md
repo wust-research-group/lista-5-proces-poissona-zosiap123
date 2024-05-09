@@ -14,6 +14,6 @@ Wydział Matematyki, Semestr Letni 2023/2024
 > - Napisz algorytm obliczający wartości $N_t$, zweryfikuj czy ma poprawny rozkład.
 
 **Zadanie 2.** Rozkład Poissona
-> TBD
+> Zaimplementuj funkcję generującą trajektorie kompensowanego procesu Poissona.
 
 **Uwaga**: Rozwiązania poszczególnych zadań należy umieścić w dedykowanych plikach `*.py` lub `*.ipynb` o nazwach `zadanie_1.[py|ipynb]`, `zadanie_2.[py|ipynb]` i `zadanie_3.[py|ipynb]`, itd.
